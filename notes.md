@@ -17,5 +17,26 @@
 - Intentionally induced a merge conflict.
 - Learned how merge conflicts are presented in VS Code and successfully resolved them.
 
+### The Evolution of Hosting:
+- While I initially thought hosting a server off my laptop was a possibility, I quickly understood its limitations. It's not just about making a device accessible online; it's about security, availability, and scalability. This experience made me appreciate the services that cloud providers like AWS offer.
+
+### The Scale of the Web:
+- Learning about data centers, I was reminded of the enormity of the internet. It's easy to forget that behind every website, there's a physical machine in a massive, controlled environment, serving data to millions.
+
+### Delving into AWS:
+- AWS was an enlightening exploration. The platform's flexibility in server location, instance types, and more, showcased the customization cloud providers offer to cater to diverse needs. The ever-changing interface of AWS, however, was a reminder of the tech industry's rapid evolution.
+
+### The Triumph of First Connection:
+- Seeing my server go live for the first time was an indescribable feeling. It solidified the idea that with the right tools and guidance, anyone could contribute to the vast landscape of the web.
+
+### Understanding Secure Access:
+- SSH-ing into my server was more than a command; it was a lesson in security and the importance of safeguarded access in the digital age.
+
+### Importance of IP Consistency:
+- The concept of Elastic IPs introduced me to the balance of cost, accessibility, and reliability. How ensuring a consistent point of access (like a persistent IP) can play a vital role in user experience.
+
+### Power vs. Cost:
+- Selecting the server size taught me to strike a balance between performance and cost. While it's tempting to scale up, sometimes optimization and effective resource use can lead to better outcomes.
+
 ## Future Notes
 I'll continue to add more notes as I explore deeper aspects of Git and software development.
