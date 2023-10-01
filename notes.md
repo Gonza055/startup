@@ -38,5 +38,31 @@
 ### Power vs. Cost:
 - Selecting the server size taught me to strike a balance between performance and cost. While it's tempting to scale up, sometimes optimization and effective resource use can lead to better outcomes.
 
+# Notes - 30/09/2023
+
+## HTML Tweaks
+
+- Swapped navigation `div`s for `a` tags, linking to BYU and FamilySearch.
+- Adjusted `ul` text to list "apples", "bananas", and "oranges".
+- Added an `img` to `aside` with a defined width.
+- Inserted a row in the table with entries: "HTML", "CSS", and "JavaScript".
+- Added "ChatGPT" within an `h1` in the `header`.
+- Placed a GitHub repository link in the `footer`.
+
+## Takeaways
+
+- `a` tags facilitate navigation to pertinent web pages.
+- The `ul` element efficiently lists items using `li` tags.
+- The `width` attribute in `img` controls the display size.
+- Tables use `tr`, `th`, and `td` for rows, headers, and data respectively.
+- `h1` to `h6` tags structure content for readability and SEO.
+- Footer often contains important links or credits.
+
+## Reminders
+
+- Secure rights for image and content use.
+- Choose meaningful `alt` text for images, enhancing accessibility.
+- Employ semantic HTML for structured and accessible content.
+
 ## Future Notes
 I'll continue to add more notes as I explore deeper aspects of Git and software development.
