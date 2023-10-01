@@ -10,9 +10,31 @@ In today's digital age, collaborative learning is just a click away, yet finding
 3. Study Resources - Share or access crowd-sourced notes, flashcards, and study guides.
 4. Scheduling - Easily schedule and manage your study sessions with an in-built calendar.
 
-# 💻 Technology Representation
-1. Authentication:
-StudyBuddy implements a secure authentication system. Users can create accounts and log in seamlessly. Post successful login, users will be greeted with their names on the dashboard, ensuring a personalized experience.
+# 💻 Technologies Implemented
+StudyBuddy has begun integrating key technologies, with the following progress:
+
+### HTML
+- Established basic application structure with placeholders for future features.
+
+### CSS
+- Incomplete: Initial styling implemented, refinement pending.
+
+### JavaScript
+- Partial: Set up for basic interactive elements; detailed functionalities to be added later.
+
+### Authentication
+- Partial: Basic login and registration forms in place; secure authentication is in progress.
+
+### Database (MongoDB)
+- Incomplete: Planning phase for storing user profiles and resources.
+
+### WebSocket
+- Incomplete: Planned for real-time updates and notifications; implementation pending.
+
+### React
+- Incomplete: Selected for frontend, initial setup complete, component development pending.
+
+Each technology is at a different stage of integration, with more advancements planned for the upcoming development sessions.
 
 2. Database Data:
 Every user's study preferences, match history, and shared resources are persistently stored in a database. One prime feature showcasing this data is the curated list of study resources, showcasing popular and top-rated study materials shared by the community.
