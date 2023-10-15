@@ -3,9 +3,9 @@
 while getopts k:h:s: flag
 do
     case "${flag}" in
-        k) key=${OPTARG};;
-        h) hostname=${OPTARG};;
-        s) service=${OPTARG};;
+        k) key=~/Downloads/tupapiriko055.pem;;
+        h) hostname=studybuddycs260;;
+        s) service=startup;;
     esac
 done
 
