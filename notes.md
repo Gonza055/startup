@@ -38,8 +38,6 @@
 ### Power vs. Cost:
 - Selecting the server size taught me to strike a balance between performance and cost. While it's tempting to scale up, sometimes optimization and effective resource use can lead to better outcomes.
 
-# Notes - 30/09/2023
-
 ## HTML Tweaks
 
 - Swapped navigation `div`s for `a` tags, linking to BYU and FamilySearch.
