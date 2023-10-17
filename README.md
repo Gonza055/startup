@@ -17,34 +17,21 @@ StudyBuddy has begun integrating key technologies, with the following progress:
 - Established basic application structure with placeholders for future features.
 
 ### CSS
-- Incomplete: Initial styling implemented, refinement pending.
-
-### JavaScript
-- Partial: Set up for basic interactive elements; detailed functionalities to be added later.
+- Initial styling implemented, refinement pending.
 
 ### Authentication
 - Partial: Basic login and registration forms in place; secure authentication is in progress.
 
-### Database (MongoDB)
-- Incomplete: Planning phase for storing user profiles and resources.
-
-### WebSocket
-- Incomplete: Planned for real-time updates and notifications; implementation pending.
-
-### React
-- Incomplete: Selected for frontend, initial setup complete, component development pending.
-
 Each technology is at a different stage of integration, with more advancements planned for the upcoming development sessions.
 
-2. Database Data:
-Every user's study preferences, match history, and shared resources are persistently stored in a database. One prime feature showcasing this data is the curated list of study resources, showcasing popular and top-rated study materials shared by the community.
+## Updates & Modifications (CSS Deliverable)
+In this phase, we undertook a design overhaul, introducing:
 
-3. WebSocket Data:
-To keep the platform interactive and real-time, StudyBuddy uses WebSockets for:
+- **Ambient Backgrounds**: To make our pages visually appealing and context-rich, each page now boasts a theme-appropriate image.
+- **Enhanced Styling**: Elements like navigation bars, buttons, and forms have been stylized to provide an intuitive and engaging user experience.
+- **Responsive Design**: Adjusted layouts and elements to ensure seamless usage across various device sizes.
 
-    * Real-time Study Group Forming: As users look for study partners, they can see real-time notifications when someone matches their criteria.
-
-    * Forum Activities: Users get real-time updates when someone comments on their post or a subject they follow.
+Visit our [GitHub Repository](https://github.com/Gonza055/startup) to see the code and contribute!
 
 # 🎨 Design Mockups:
 
