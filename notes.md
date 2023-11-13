@@ -75,21 +75,5 @@ Styling plays a pivotal role in any application, dictating its overall appearanc
 - Responsiveness is not just a bonus but a necessity in the modern web.
 - Proper debugging can save hours of frustration and lead to better outcomes.
 
-## JavaScript Integration
-Integrated core JavaScript functionalities to enhance the application's dynamism and interactivity. This covered mock implementations for user login, database interactions, WebSocket communication, and general app interaction logic.
-
-## Key Implementations
-- Future Login Support: Set up mock login with localStorage for user data persistence.
-- Database Data Support: Crafted a mock database in JavaScript for user data storage and retrieval.
-- WebSocket Support: Simulated WebSocket events for real-time data updates in the DOM.
-- App Interaction Logic: Established main logic for dynamic user interaction with the app.
-- Changes Made
-- Introduced a app.js file for all JavaScript code.
-- Linked app.js to all HTML documents.
-## Takeaways
-- JavaScript plays a pivotal role in enhancing app interactivity.
-- Mock implementations are valuable in setting the stage for real backend integration.
-
-
 ## Future Notes
 I'll continue to add more notes as I explore deeper aspects of Git and software development.
