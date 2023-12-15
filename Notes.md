@@ -115,6 +115,7 @@ Integrated core JavaScript functionalities to enhance the application's dynamism
 - Mastering data storage with MongoDB is a key skill for building scalable applications.
 - Securely managing environment configurations is critical to protect access to databases and APIs.
 - Full-stack development provides a comprehensive understanding of how different layers of an application interact.
+<<<<<<< HEAD
 ## React Integration
 - Bootstrapped the application using `create-react-app`, streamlining the initial setup process.
 - Transitioned from static HTML files to dynamic React components, encapsulating the UI into reusable elements.
@@ -134,5 +135,7 @@ Integrated core JavaScript functionalities to enhance the application's dynamism
 ## Challenges and Resolutions
 - Encountered and overcame challenges related to React's learning curve, such as understanding the virtual DOM and component lifecycle.
 - Resolved common issues with JSX conversion and React Router implementation.
+=======
+>>>>>>> 570b7dd4eafa582c649d90c74a1a2d970de0da50
 ## Future Notes
 I'll continue to add more notes as I explore deeper aspects of Git and software development.
